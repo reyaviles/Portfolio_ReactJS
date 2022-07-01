@@ -12,7 +12,7 @@ const Footer = () => {
             <div className='left'>
                 <div className='email'>
                 <h4>About Me</h4>
-                <p>I'm a creative with a knack for the analytical.</p>
+                <p>I'm a creative at heart with a passion for web-development</p>
                 <br/>
                     <h4>Questions?</h4>
                     <h4>
@@ -22,7 +22,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className='right'>
-                <h4>This site was proudly built by me using ReactJS</h4>
+                <h4>This site was proudly built by me using ReactJS & MaterialUI </h4>
                 <div className='social'>
                 <a href='https://www.linkedin.com/in/reyaviles/'>
                 <FaLinkedin size={30} style={{color:"#fff", marginRight: "2rem"}}/>

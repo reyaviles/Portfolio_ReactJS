@@ -62,3 +62,27 @@ ul{
 h2{
   color: #fff;
 }
+
+.home-btn{
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: rgba(25,25,25,.8);
+  color: #eee;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.home-btn-ctn{
+display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 20px;
+}
+
+.home-card{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
